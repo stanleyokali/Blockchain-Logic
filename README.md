@@ -1,4 +1,4 @@
-# blockchainlogic
+# Blockchain-Logic
 A console app written to explore the principles of block-chain tech. {built using C# .Net Framework}
 
 echo "# blockchainlogic" >> README.mdecho "# blockchainlogic" >> README.md
